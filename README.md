@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💬 I’m currently working on creating a portfolio of my work
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning java
 - ⚡ Fun fact: I'm actually studying in America for my second year of university !
 
 <!--
